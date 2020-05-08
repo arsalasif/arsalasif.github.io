@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Arsal Asif</title>
+        <link>https://arsalasif.github.io/posts/</link>
+        <description>Recent content in Posts on Arsal Asif</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://arsalasif.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Setting up this website</title>
+            <link>https://arsalasif.github.io/posts/2020/05/setting-up-this-website/</link>
+            <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://arsalasif.github.io/posts/2020/05/setting-up-this-website/</guid>
+            <description>Hi Just setting up my website, in the midst of this pandemic. Let&amp;rsquo;s see how this turns out. :)
+$ echo &amp;quot;Hello World&amp;quot; Hello World </description>
+            <content type="html"><![CDATA[<h2 id="hi">Hi</h2>
+<p>Just setting up my website, in the midst of this pandemic. Let&rsquo;s see how this turns out. :)</p>
+<pre><code>$ echo &quot;Hello World&quot;
+Hello World
+</code></pre>]]></content>
+        </item>
+        
+    </channel>
+</rss>
