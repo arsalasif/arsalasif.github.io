@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arsal Asif</title>
-    <link>arsal.me/</link>
+    <link>https://arsal.me/</link>
     <description>Recent content on Arsal Asif</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="arsal.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arsal.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Setting up this website</title>
-      <link>arsal.me/posts/2020/05/setting-up-this-website/</link>
+      <link>https://arsal.me/posts/2020/05/setting-up-this-website/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>arsal.me/posts/2020/05/setting-up-this-website/</guid>
+      <guid>https://arsal.me/posts/2020/05/setting-up-this-website/</guid>
       <description>Hi Just setting up my website, in the midst of this pandemic. Let&amp;rsquo;s see how this turns out. :)
 $ echo &amp;quot;Hello World&amp;quot; Hello World </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>arsal.me/about/</link>
+      <link>https://arsal.me/about/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>arsal.me/about/</guid>
+      <guid>https://arsal.me/about/</guid>
       <description>Recent graduate from M.Sc. Computer Science (Thesis) program at University of Manitoba. Open to opportunities.
 I am a versatile individual, who has worked as a Graphic Designer, Software Engineer, and Researcher.
 At my core, I am a Software Engineer and a Researcher in Computer Science. I believe you need to be able to research to develop good software, and you need to be able to code to actualize your research ideas.</description>
