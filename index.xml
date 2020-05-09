@@ -6,7 +6,7 @@
     <description>Recent content on Arsal Asif</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://arsal.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,18 @@
       <guid>https://arsal.me/posts/2020/05/setting-up-this-website/</guid>
       <description>Hi Just setting up my website, in the midst of this pandemic. Let&amp;rsquo;s see how this turns out. :)
 $ echo &amp;quot;Hello World&amp;quot; Hello World </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://arsal.me/projects/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arsal.me/projects/</guid>
+      <description>REST API Jogging Times API
+Python, Flask, Docker, SQLAlchemy, PostgreSQL, Celery, AMQP, Gunicorn, JWT, SwaggerUI
+A RESTful API for users to track their jogging times. Containerized Docker build with separate docker services for database, message-broker, API, and documentation. Separate environments and configs for development, testing, and production. Authentication via JWT. Documentation via Swagger. Code available soon.Techlogix Enterprise Mobility
+C#, .NET, C# Reflection, DotLiquid, SQL Server, LINQ, Entity Framework, Microsoft Azure, OAuth, BitBucket, JIRA</description>
     </item>
     
     <item>
