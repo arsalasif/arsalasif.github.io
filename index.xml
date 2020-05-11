@@ -30,10 +30,10 @@ $ echo &amp;quot;Hello World&amp;quot; Hello World </description>
       <description>Computer Vision • Predicting Visual Saliency in Videos
 Python, C++, PyTorch, Keras, OpenCV-Python, PyTorch CUDA, Virtualenv, MATLAB, Bash, Graphviz, LaTeX
 Research project for my Master&amp;rsquo;s Thesis. Created a video saliency model using Deep Neural Network (DNN) architecture that quantitatively and qualitatively outperformed the state-of-the-art. Paper currently submitted to European Conference on Computer Vision (ECCV) 2020 for publication.
-Link to Thesis
+1. Link to Thesis
+2. Repository on Github
 • Depth Estimation
-Python, LaTeX
-Reported the best and recent Deep Learning approaches for Depth Estimation.</description>
+Python, LaTeX</description>
     </item>
     
     <item>
