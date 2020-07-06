@@ -22,9 +22,20 @@ $ echo &amp;quot;Hello World&amp;quot; Hello World </description>
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://arsal.me/about/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arsal.me/about/</guid>
+      <description>I am a software engineer who loves wearing many hats. I love software engineering, machine learning and computer vision. After working as a professional software engineer, I completed my Master&amp;rsquo;s degree focused on research in Computer Vision. With a language-agnostic mindset, I am always learning new things, in different domains.
+If you need someone who can code as well as research, then feel free to give me a nudge.
+Reach out on LinkedIn.</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://arsal.me/projects/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://arsal.me/projects/</guid>
       <description>Computer Vision • Predicting Visual Saliency in Videos
@@ -34,17 +45,6 @@ Research project for my Master&amp;rsquo;s Thesis. Created a video saliency mode
 2. Repository on Github
 • Depth Estimation
 Python, LaTeX</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://arsal.me/about/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://arsal.me/about/</guid>
-      <description>Recent graduate from M.Sc. Computer Science (Thesis) program at University of Manitoba. Open to opportunities.
-I am a versatile individual, who has worked as a Graphic Designer, Software Engineer, and Researcher.
-At my core, I am a Software Engineer and a Researcher in Computer Science. I believe you need to be able to research to develop good software, and you need to be able to code to actualize your research ideas.</description>
     </item>
     
   </channel>
