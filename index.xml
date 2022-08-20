@@ -6,18 +6,7 @@
     <description>Recent content on Arsal Asif</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://arsal.me/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>It&#39;s been a while</title>
-      <link>https://arsal.me/posts/2021/06/its-been-a-while/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://arsal.me/posts/2021/06/its-been-a-while/</guid>
-      <description>It&amp;rsquo;s been almost a year since I last posted here. Life got really busy, and I haven&amp;rsquo;t updated anything on the website.
-What I have been upto After a bunch of freelancing gigs, I moved onto a full-time role as a Senior Software Engineer. Met and worked with a bunch of amazing people, and got back to Canada as well.
-I&amp;rsquo;m currently living in this quiet, beautiful city of Kitchener and working remotely.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://arsal.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting up this website</title>
       <link>https://arsal.me/posts/2020/05/setting-up-this-website/</link>
@@ -31,11 +20,10 @@ $ echo &amp;#34;Hello World&amp;#34; Hello World </description>
     <item>
       <title>About</title>
       <link>https://arsal.me/about/</link>
-      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://arsal.me/about/</guid>
-      <description>I am a software engineer who loves wearing many hats. I love software engineering, machine learning and computer vision. After working as a professional software engineer, I completed my Master&amp;rsquo;s degree focused on research in Computer Vision. With a language-agnostic mindset, I am always learning new things, in different domains.
-If you need someone who can code as well as research, then feel free to give me a nudge.
+      <description>Senior Engineer @ Ada
 Reach out on LinkedIn.</description>
     </item>
     
